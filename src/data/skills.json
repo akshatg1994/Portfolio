@@ -1,0 +1,71 @@
+[
+  {
+    "skillType": "Languages & Frameworks:",
+    "skillList": [
+      { "name": "JavaScript", "icon": "" },
+      { "name": "TypeScript", "icon": "" },
+      { "name": "React Native", "icon": "" },
+      { "name": "Node.js", "icon": "" },
+      { "name": "Java", "icon": "" },
+      { "name": "Kotlin", "icon": "" },
+      { "name": "HTML", "icon": "" },
+      { "name": "CSS", "icon": "" },
+      { "name": "NODE.JS", "icon": "" }
+    ]
+  },
+  {
+    "skillType": "State Management",
+    "skillList": [
+      { "name": "Redux", "icon": "" },
+      { "name": "Redux-toolkit", "icon": "" },
+      { "name": "Redux-Saga", "icon": "" },
+      { "name": "Redux AsyncThunk", "icon": "" }
+    ]
+  },
+  {
+    "skillType": "CI/CD & DevOps",
+    "skillList": [
+      { "name": "Github Actions", "icon": "" },
+      { "name": "FastLane", "icon": "" }
+    ]
+  },
+  {
+    "skillType": "Analytics & Monitoring",
+    "skillList": [
+      { "name": "Firebase (Auth, Firestore, Remote Config, SDUI)", "icon": "" },
+      { "name": "MongoDB", "icon": "" },
+      { "name": "SQLite", "icon": "" },
+      { "name": "Matomo", "icon": "" }
+    ]
+  },
+  {
+    "skillType": "Architecture",
+    "skillList": [
+      { "name": "Micro-Frontend Architecture", "icon": "" },
+      { "name": "Modular App Design", "icon": "" }
+    ]
+  },
+  {
+    "skillType": "Tools & Platforms",
+    "skillList": [
+      { "name": "Android Studio", "icon": "" },
+      { "name": "XCode", "icon": "" },
+      { "name": "VS Code", "icon": "" },
+      { "name": "Visual Studio", "icon": "" },
+      { "name": "Git", "icon": "" },
+      { "name": "Postman", "icon": "" },
+      { "name": "ADB", "icon": "" },
+      { "name": "Putty", "icon": "" },
+      { "name": "WinSCP", "icon": "" },
+      { "name": "FileZilla", "icon": "" }
+    ]
+  },
+  {
+    "skillType": "Other Technologies",
+    "skillList": [
+      { "name": "Unity 3D", "icon": "" },
+      { "name": "Arduino IDE", "icon": "" },
+      { "name": "MS Office", "icon": "" }
+    ]
+  }
+]

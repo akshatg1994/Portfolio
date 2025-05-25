@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Djezzy Algeria",
+    "techStack": "React-Native",
+    "description": [
+      {
+        "value": "Developed a customer service app as a solo React Native developer for Djezzy, a leading telecom provider in Algeria."
+      },
+      {
+        "value": "Handled features like mobile recharges, plan activations, and support requests."
+      },
+      {
+        "value": "Implemented end-to-end API integration and delivered milestones in coordination with QA and product teams."
+      }
+    ],
+    "images": [{}]
+  },
+  {
+    "name": "Viva Apps – Smartfren, Indonesia",
+    "techStack": "React-Native",
+    "description": [
+      {
+        "value": "Contributed to a customer-facing telecom app for Smartfren."
+      },
+      {
+        "value": "Implemented services like wallet balance retrieval, recharge workflows, and localization."
+      },
+      {
+        "value": "Resolved key production crashes via Play Console analysis, improving app stability by over 30%."
+      },
+      {
+        "value": "Supported smooth release cycles in coordination with cross-functional teams."
+      }
+    ],
+    "images": [{}]
+  },
+  {
+    "name": "Ooredoo Qatar",
+    "techStack": "React-Native",
+    "description": [
+      {
+        "value": "Developing a cross-platform mobile app to enhance customer engagement and service access."
+      },
+      {
+        "value": "Integrated POS features like printing, scanning, and NFC for secure interactions."
+      },
+      {
+        "value": "Optimized performance, reducing app startup time by ~25%."
+      },
+      {
+        "value": "Collaborated with cross-functional teams to deliver stable feature releases."
+      }
+    ],
+    "images": [{}]
+  },
+  {
+    "name": "Sales Networking App – Airtel, Sri Lanka",
+    "techStack": "React-Native",
+    "description": [
+      {
+        "value": "Worked on a sales management app for Airtel Sri Lanka's on-ground teams."
+      },
+      {
+        "value": "Enabled real-time sync, agent performance tracking, and hierarchical reporting."
+      },
+      {
+        "value": "Built custom UI components and assisted with App Store deployment for release compliance."
+      }
+    ],
+    "images": [{}]
+  }
+]

@@ -1,0 +1,19 @@
+.navigationHolder {
+    width: 100vw;
+    background-color: #FF0000;
+    height: 8vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 16px;
+}
+
+.navigators {
+    display: flex;
+    flex-direction: row;
+}
+
+.navigationItem {
+    padding: 0 10px;
+}
