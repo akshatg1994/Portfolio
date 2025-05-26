@@ -1,7 +1,31 @@
 .projectCard {
-
+    width: 90%;
+    margin: auto;
+    height: 50vh;
 }
 
-.projectTitle{
+.projectTitle {
+    font-size: 22px;
+    text-align: center;
+}
 
+.projectDataHolder {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    align-items: center;
+}
+
+.projectDataHolder.isFlipped {
+    flex-direction: row-reverse;
+    background-color: red;
+}
+
+.projectDetails {
+    width: 60%;
+    font-size: 16px;
+}
+
+.projectImageWrapper {
+    width: 40%;
 }
